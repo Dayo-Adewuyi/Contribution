@@ -33,23 +33,6 @@ My contributions to team resilient's project 1, project 2 and team unicorn's pro
 * https://github.com/TeamResilient/Nestcoin/pull/34
   Updated readme.md
   
-  
-  ### ZURIDAO Contributions
-  
-* https://github.com/The-Unicorn-Team/ZuriDao/pull/4 
-  Created first draft of smart contract and merkletree script
-  
-* https://github.com/The-Unicorn-Team/ZuriDao/pull/5 Created deployment script and refactored the smart-contract
-
-* https://github.com/The-Unicorn-Team/ZuriDao/pull/6 added upgradeable feature to smart-contract and refactored deployment script
-
-* https://github.com/The-Unicorn-Team/ZuriDao/pull/7 added comments to the smart contract in line with natspec format
-
-* https://github.com/The-Unicorn-Team/ZuriDao/pull/8 upgraded smart contract security by making it pausable
-
-* https://github.com/The-Unicorn-Team/ZuriDao/pull/10 removed redudant features in the smart contract and updated readme
-  
- 
 * https://github.com/TeamResilient/Nestcoin/pull/36
   Updated test scripts,
   Updated contracts and 
@@ -76,3 +59,20 @@ My contributions to team resilient's project 1, project 2 and team unicorn's pro
 * https://github.com/TeamResilient/NestDrive/pull/15
   Updated contract address and remove redundant codes from contract
   
+  
+  ### ZURIDAO Contributions
+  
+* https://github.com/The-Unicorn-Team/ZuriDao/pull/4 
+  Created first draft of smart contract and merkletree script
+  
+* https://github.com/The-Unicorn-Team/ZuriDao/pull/5 Created deployment script and refactored the smart-contract
+
+* https://github.com/The-Unicorn-Team/ZuriDao/pull/6 added upgradeable feature to smart-contract and refactored deployment script
+
+* https://github.com/The-Unicorn-Team/ZuriDao/pull/7 added comments to the smart contract in line with natspec format
+
+* https://github.com/The-Unicorn-Team/ZuriDao/pull/8 upgraded smart contract security by making it pausable
+
+* https://github.com/The-Unicorn-Team/ZuriDao/pull/10 removed redudant features in the smart contract and updated readme
+  
+ 
