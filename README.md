@@ -73,6 +73,16 @@ My contributions to team resilient's project 1, project 2 and team unicorn's pro
 
 * https://github.com/The-Unicorn-Team/ZuriDao/pull/8 upgraded smart contract security by making it pausable
 
-* https://github.com/The-Unicorn-Team/ZuriDao/pull/10 removed redudant features in the smart contract and updated readme
-  
+* https://github.com/The-Unicorn-Team/ZuriDao/pull/10 removed redudant features in the smart contract and updated readme  
  
+* https://github.com/The-Unicorn-Team/ZuriDao/pull/16 refactored contract and merkletree script
+
+* https://github.com/The-Unicorn-Team/ZuriDao/pull/19 created all the required functions in the context file for use in other frontend components
+
+* https://github.com/The-Unicorn-Team/ZuriDao/pull/20 refactored contract and removed upgradeable feature.
+
+* https://github.com/The-Unicorn-Team/ZuriDao/pull/21 added functions to smart-contract to make UX better.
+
+* https://github.com/The-Unicorn-Team/ZuriDao/pull/22 added more functions to contract and frontend section.
+
+* https://github.com/The-Unicorn-Team/ZuriDao/pull/23 added more functions to the frontend section.
